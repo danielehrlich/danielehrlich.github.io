@@ -9,7 +9,7 @@ My research is broadly concerned with economic growth in developing economies, u
 
 ## Reserach
 
-###Working Papers
+**Working Papers**
 
 Scaling Financial Interventions in Space  
 with *Robert Townsend (MIT)*
@@ -20,7 +20,7 @@ with *Masao Fukui (BU)* and *Robert Townsend (MIT)*
 A Bank on Every Corner: Relationship Contracting and Firm Dynamics  
 with *Vishan Nigam (MIT)*
 
-###Work in Progress
+**Work in Progress**
 
 Food Loss in Agricultural Value Chains (Job Market Paper)
 
