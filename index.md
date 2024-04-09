@@ -9,7 +9,7 @@ My research is broadly concerned with economic growth in developing countries, u
 
 I am a visiting scholar at the Columbia Business School from September 2023 to June 2024 and was a visiting scholar at MIT from January to June 2023. 
 
-My CV is available [here](https://www.danielehrlich.github.io/assets/files/ehrlich-cv.pdf).
+My CV is available [here](https://www.danielehrlich.github.io/ehrlich-cv.pdf).
 
 ## References
 
