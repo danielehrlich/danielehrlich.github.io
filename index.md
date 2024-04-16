@@ -37,7 +37,7 @@ with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
 ## Teaching
 
  - Topics in Macroeconomics, Nancy Stokey, undergraduate, Fall 2020
- - Macroeconomics II, Mikael Golosov, graduate, Winter 2021
+ - Macroeconomics II, Mikhail Golosov, graduate, Winter 2021
  - Macroeconomics III, Fernando Alvarez, graduate, Spring 2021
  - International Trade, Felix Tintelnot, undergraduate, Winter 2022
  - Development Economics, Srinivasan Vasudevan, undergraduate, Summer 2022
