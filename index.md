@@ -36,7 +36,7 @@ with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
 
 ## Resting
 Selection and Hysterisis in Household Migration  
-with *Erik Hurst*
+with *Erik Hurst (UChicago)*
 
 ## Teaching
 
