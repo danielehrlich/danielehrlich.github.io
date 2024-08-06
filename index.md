@@ -18,6 +18,8 @@ I am a visiting scholar at the Columbia Business School from September 2023 to J
 
 ## Working Papers
 
+Food Loss in Agricultural Value Chains (Job Market Paper)
+
 Scaling Financial Interventions in Space  
 with *Robert Townsend (MIT)*
 
@@ -26,13 +28,15 @@ with *Masao Fukui (BU)* and *Robert Townsend (MIT)*
 
 ## Work in Progress
 
-Food Loss in Agricultural Value Chains (Job Market Paper)
-
 A Bank on Every Corner: Trade Credit and Firm Dynamics  
 with *Vishan Nigam (MIT)*
 
 The Dynamics of Misallocation  
 with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
+
+## Resting
+Selection and Hysterisis in Household Migration
+with *Erik Hurst*
 
 ## Teaching
 
