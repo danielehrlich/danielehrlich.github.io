@@ -21,13 +21,13 @@ I am a visiting scholar at the Columbia Business School from September 2023 to J
 Food Loss in Agricultural Value Chains (Job Market Paper)
 
 Scaling Financial Interventions in Space  
-with *Robert Townsend (MIT)*
-<details>
+with *Robert Townsend (MIT)* <details>
 <summary>Abstract.</summary>
 
     What are the effects of scaling up financial interventions in space? We investigate this question in the context of Thailand's ‘Million Baht Village Fund' program, using quasi-natural variation in credit per household at the village level and an extensive administrative village census. We find significant village-level impacts of credit and credit spillovers to neighboring villages. Credit spillovers dominate the direct effects, where heterogeneity in credit spillovers is a function of the local spatial configuration of villages. We find that migration between villages rather than trade or capital flows is the primary source of spillovers. We develop a dynamic spatial model with migration to interpret and explain the spatial and general equilibrium effects we find in the data. Model predictions align with the empirical results and suggest uneven welfare gains by wealth and agent type. Spatial spillovers generate welfare trade-offs between occupations, raising wages to benefit workers and at a cost to entrepreneurs. Counterfactual distribution of credit minimizes entrepreneur-worker trade-offs and yields welfare gains over the actual intervention.
+</details>  
 
-</details>
+
 
 Trade-Financial Linkages and Regional Risk Sharing  
 with *Masao Fukui (BU)* and *Robert Townsend (MIT)*
