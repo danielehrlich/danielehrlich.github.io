@@ -35,7 +35,7 @@ The Dynamics of Misallocation
 with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
 
 ## Resting
-Selection and Hysterisis in Household Migration
+Selection and Hysterisis in Household Migration  
 with *Erik Hurst*
 
 ## Teaching
