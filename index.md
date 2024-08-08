@@ -22,17 +22,25 @@ Food Loss in Agricultural Value Chains
 
 Scaling Financial Interventions in Space  
 with *Robert Townsend (MIT)*
-<details>
+
+<details open>
+ 
 <summary>Abstact</summary>
+
 What are the effects of scaling up financial interventions in space? We investigate this question in the context of Thailand's ‘Million Baht    Village Fund' program, using quasi-natural variation in credit per household at the village level and an extensive administrative village census. We find significant village-level impacts of credit and credit spillovers to neighboring villages. Credit spillovers dominate the direct effects, where heterogeneity in credit spillovers is a function of the local spatial configuration of villages. We find that migration between villages rather than trade or capital flows is the primary source of spillovers. We develop a dynamic spatial model with migration to interpret and explain the spatial and general equilibrium effects we find in the data. Model predictions align with the empirical results and suggest uneven welfare gains by wealth and agent type. Spatial spillovers generate welfare trade-offs between occupations, raising wages to benefit workers and at a cost to entrepreneurs. Counterfactual distribution of credit minimizes entrepreneur-worker trade-offs and yields welfare gains over the actual intervention.
+
 <br>
 </details>  
 
 Trade-Financial Linkages and Regional Risk Sharing  
 with *Masao Fukui (BU)* and *Robert Townsend (MIT)*  
-<details>
+
+<details open>
+ 
 <summary>Abstact</summary>
+ 
 Regional markets are linked through both trade in goods and financial flows. Yet research estimating the effect of shocks on local markets primarily focuses on within market outcomes and does not account for trade-financial linkages. We bridge this gap by constructing and relating the regional current account and trade balance for states in the United States and estimate their co-movement in response to shocks. We find that in response to negative shocks, states hit hardest decrease the trade balance and current account while receiving greater financial transfers from other states. Private transfers account for a majority of the financial transfers from other states, reducing the effect of negative shock by approximately a fourth. Public transfers, on the other hand, are small and often insignificant. 
+
 <br>
 </details>  
 
@@ -40,17 +48,25 @@ Regional markets are linked through both trade in goods and financial flows. Yet
 
 A Bank on Every Corner: Trade Credit and Firm Dynamics  
 with *Vishan Nigam (MIT)*
-<details>
+
+<details open>
+ 
 <summary>Abstact</summary>
+
 Retail firms in India are one of the largest sources of short-term consumer loans. What is the impact of bundling financial and real products on firm dynamics? By combining an experiment with a novel transaction level dataset of micro, small and medium sized enterprises, we document that 1) firms learn customer creditworthiness over time, 2) private information about creditworthiness generates monopolistic power, and 3) small firms have a comparative advantage in gathering private information. We develop a dynamic model of firm-customer lending and derive conditions under which it is efficient for firms to remain small. We then study how a counterfactual de-bundling of financial and real products through the introduction of credit cards affects the size and number of retail firms.
+
 <br>
 </details>  
 
 The Dynamics of Misallocation  
 with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
-<details>
+
+<details open>
+ 
 <summary>Abstact</summary>
+
 Between 1980 and 2010, relative to the average firm, the top firms in the United States decreased their scope, the number of products per firm, but increased their scale, the productivity per product line. We attribute these secular patterns to changes in static misallocation. Static wedges to labor and capital shift dynamic incentives to innovate, redirecting innovation from creating new products to improving existing ones, thus lowering the amount of creative destruction. We extend to model to consider differences in firm composition between the United States, Korea, and Mexico, and show that a large percent of the differences can be explained via differences in static wedges.
+
 <br>
 </details>  
 
