@@ -33,7 +33,7 @@ with *Vishan Nigam (MIT)*
 with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
 
 ## Resting
-Selection and Hysterisis in Household Migration  
+1. Selection and Hysterisis in Household Migration  
 with *Erik Hurst (UChicago)*
 
 ## Teaching
