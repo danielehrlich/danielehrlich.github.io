@@ -7,7 +7,7 @@ layout: homepage
 Welcome! I am a Ph.D. candidate at the University of Chicago Department of Economics. 
 My research is broadly concerned with growth and development, using tools from **macroeconomics**, **trade**, and **finance**. I am particularly interested in how intermediation in trade and financial markets affects the organization of firms, supply chains, and production.
 
-I am a visiting scholar at the Columbia Business School from September 2023 to June 2024 and was a visiting scholar at MIT from January 2023 to May 2023. I will be on the job market during the 2024-2025 academic year.  
+I was a visiting scholar at the Columbia Business School from September 2023 to June 2024 and was a visiting scholar at the MIT Department of Economics from January 2023 to May 2023. I will be on the job market during the 2024-2025 academic year.  
 
 ## References
 
