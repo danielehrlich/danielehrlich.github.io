@@ -7,7 +7,7 @@ layout: homepage
 Welcome! I am a Ph.D. candidate at the University of Chicago Department of Economics. 
 My research is broadly concerned with growth and development, using tools from **macroeconomics**, **trade**, and **finance**. I am particularly interested in how intermediation in trade and financial markets affects the organization of firms, supply chains, and production.
 
-I was a visiting scholar at the Columbia Business School from September 2023 to June 2024 and was a visiting scholar at the MIT Department of Economics from January 2023 to May 2023. I will be on the job market during the 2024-2025 academic year.  
+I was a visiting scholar at the Columbia Business School from September 2023 to June 2024 and a visiting scholar at the MIT Department of Economics from January 2023 to May 2023. I will be on the job market during the 2024-2025 academic year.  
 
 ## References
 
@@ -26,7 +26,7 @@ with *Robert Townsend (MIT)*
 with *Masao Fukui (BU)* and *Robert Townsend (MIT)*  
 
 ## Work in Progress
-1. A Bank on Every Corner: Trade Credit and Firm Dynamics  
+1. A Bank on Every Corner: Relationship Contracting and Firm Dynamics  
 with *Vishan Nigam (MIT)*
 
 2. The Dynamics of Misallocation  
