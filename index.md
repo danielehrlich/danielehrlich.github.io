@@ -34,7 +34,8 @@ with *Vishan Nigam (MIT)*
 \[[Abstract](Bank_Corner_abstract.pdf)\] 
 
 2. Scope vs Scale: The Dynamics of Misallocation  
-with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*
+with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*  
+\[[Abstract](Scope_v_Scale_abstract.pdf)\] 
 
 ## Resting
 1. Selection and Hysterisis in Household Migration  
