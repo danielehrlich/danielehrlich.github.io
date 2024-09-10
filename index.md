@@ -17,13 +17,16 @@ I was a visiting scholar at the Columbia Business School from September 2023 to 
 - [David Lagakos](https://sites.google.com/site/davidlagakos)
 
 ## Working Papers
-1. Food Loss in Agricultural Value Chains (JMP)
+1. Food Loss in Agricultural Value Chains (JMP)  
+*Draft Coming Soon! Please check back in October.*
 
 2. Scaling Financial Interventions in Space  
-with *Robert Townsend (MIT)*
+with *Robert Townsend (MIT)*  
+\[[Abstract](Scaling_Up_Fin_abstract.pdf)\] \[[Paper](Scaling_Up_Fin.pdf)\]
 
 3. Trade-Financial Linkages and Regional Risk Sharing  
 with *Masao Fukui (BU)* and *Robert Townsend (MIT)*  
+\[[Abstract](TF_Links_abstract.pdf)\] 
 
 ## Work in Progress
 1. A Bank on Every Corner: Relationship Contracting and Firm Dynamics  
