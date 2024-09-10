@@ -31,7 +31,7 @@ with *Masao Fukui (BU)* and *Robert Townsend (MIT)*
 ## Work in Progress
 1. A Bank on Every Corner: Relationship Contracting and Firm Dynamics  
 with *Vishan Nigam (MIT)*  
-\[[Abstract](Bank_Corner_abstract.pdf)\]
+\[[Abstract](Bank_Corner_abstract.pdf)\] \[[Slides](Bank_Corner_slides.pdf)\]
 
 2. Scope vs Scale: The Dynamics of Misallocation  
 with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*  
