@@ -29,7 +29,7 @@ with *Masao Fukui (BU)* and *Robert Townsend (MIT)*
 \[[Abstract](TF_Links_abstract.pdf)\]
 
 ## Work in Progress
-1. A Bank on Every Corner: Relationship Contracting and Firm Dynamics  
+1. A Bank on Every Corner: Relationship Lending and Firm Dynamics  
 with *Vishan Nigam (MIT)*  
 \[[Abstract](Bank_Corner_abstract.pdf)\] \[[Slides](Bank_Corner_slides.pdf)\]
 
