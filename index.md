@@ -17,7 +17,7 @@ I was a visiting scholar at the Columbia Business School from September 2023 to 
 
 ## Working Papers
 1. Food Loss in Agricultural Value Chains (JMP)  
-\[[Abstract](Food_Loss_abstract.pdf)\]  \[[Paper](Food_Loss_JMP.pdf)\]
+\[[Abstract](Food_Loss_abstract.pdf)\] \[[Paper](Food_Loss_JMP.pdf)\]
 
 2. Scaling Financial Interventions in Space  
 with *Robert Townsend (MIT)*  
