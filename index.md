@@ -4,7 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am a macroeconomics Ph.D. candidate at the University of Chicago Department of Economics. I am broadly interested in **growth** and **development**, drawning on tools from **macroeconomics**, **trade**, and **finance**. My research is at the nexus of models and data, combining structural models with original surveys, big data, and a range of machine learning and causal inference methods including Randomized Control Trials.
+Welcome! I am an economics Ph.D. candidate at the University of Chicago Department of Economics. My research is at the nexus of models and data, combining structural models with original surveys, big data, and a range of machine learning, causal inference, and experimental methods.
 
 I was a visiting scholar at the Columbia Business School from September 2023 to June 2024 and a visiting scholar at the MIT Department of Economics from January 2023 to May 2023.
 
@@ -16,7 +16,7 @@ I was a visiting scholar at the Columbia Business School from September 2023 to 
 - [David Lagakos](https://sites.google.com/site/davidlagakos)
 
 ## Working Papers
-1. Food Loss in Agricultural Value Chains (JMP)  
+1. Food Loss in Agricultural Value Chains
 \[[Abstract](Food_Loss_abstract.pdf)\] \[[Paper](Food_Loss_JMP.pdf)\]
 
 2. Scaling Financial Interventions in Space  
