@@ -16,7 +16,7 @@ I was a visiting scholar at the Columbia Business School from September 2023 to 
 - [David Lagakos](https://sites.google.com/site/davidlagakos)
 
 ## Working Papers
-1. Food Loss in Agricultural Value Chains
+1. Food Loss in Agricultural Value Chains  
 \[[Abstract](Food_Loss_abstract.pdf)\] \[[Paper](Food_Loss_JMP.pdf)\]
 
 2. Scaling Financial Interventions in Space  
