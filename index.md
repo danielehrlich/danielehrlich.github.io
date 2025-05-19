@@ -37,10 +37,6 @@ with *Vishan Nigam (MIT)*
 with *Esteban Rossi-Hansberg (UChicago)* and *Chang-Tai Hsieh (UChicago)*  
 \[[Abstract](Scope_v_Scale_abstract.pdf)\] 
 
-## Resting
-1. Selection and Hysterisis in Household Migration  
-with *Erik Hurst (UChicago)*
-
 ## Teaching
 
  - Topics in Macroeconomics, Nancy Stokey, undergraduate, Fall 2020
