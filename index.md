@@ -4,16 +4,7 @@ layout: homepage
 
 ## About Me
 
-Welcome! I am an economics Ph.D. candidate at the University of Chicago Department of Economics. My research is at the nexus of models and data, combining structural models with original surveys, big data, and a range of machine learning, causal inference, and experimental methods.
-
-I was a visiting scholar at the Columbia Business School from September 2023 to June 2024 and a visiting scholar at the MIT Department of Economics from January 2023 to May 2023.
-
-## References
-
-- [Erik Hurst](https://erikhurst.com)
-- [Esteban Rossi-Hansberg](https://rossihansberg.economics.uchicago.edu)
-- [Chang-Tai Hsieh](https://faculty.chicagobooth.edu/chang-tai-hsieh)
-- [David Lagakos](https://sites.google.com/site/davidlagakos)
+Welcome! I received my Ph.D. in economics from the University of Chicago in 2025. I was a visiting scholar at the Columbia Business School from September 2023 to June 2024 and a visiting scholar at the MIT Department of Economics from January 2023 to May 2023. My academic research is at the nexus of models and data, combining structural models with original surveys, big data, and a range of machine learning, causal inference, and experimental methods. 
 
 ## Working Papers
 1. Food Loss in Agricultural Value Chains  
